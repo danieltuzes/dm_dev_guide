@@ -1099,7 +1099,7 @@ References are numbered, starting from one, in the order in which they are cited
 
 .. note::
 
-   In the future we may support `bibtex-based references instead <https://github.com/mcmtroffaes/sphinxcontrib-bibtex>`__ instead of explicitly writing bibliographies in docstrings.
+   In the future we may support `bibtex-based references <https://github.com/mcmtroffaes/sphinxcontrib-bibtex>`__ instead of explicitly writing bibliographies in docstrings.
 
 .. _py-docstring-examples:
 
